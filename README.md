@@ -1,6 +1,6 @@
 # pad_keeper
 
-A new Flutter application.
+Writing to pad daily necessary note based.
 
 ## Getting Started
 
